@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/utils.ts","./src/components/geoinput.tsx","./src/components/offerautocomplete.tsx","./src/components/offerseditor.tsx","./src/components/toasts.tsx","./src/pages/campaigneditorpage.tsx","./src/pages/campaignspage.tsx","./src/pages/createcampaignpage.tsx"],"version":"5.6.3"}
